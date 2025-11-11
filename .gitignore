@@ -6,3 +6,5 @@ build/
 *.vcxproj*
 *.sln
 *.filters
+/bin/Debug-windows-x86_64/yaml-cpp
+/bin-int/Debug-windows-x86_64/yaml-cpp
